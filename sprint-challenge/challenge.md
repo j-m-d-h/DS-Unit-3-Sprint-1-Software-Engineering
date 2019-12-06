@@ -263,21 +263,21 @@ career here, you'll have to answer the following:
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
   
-  Code reviews allow a different pair of eyes to look at your work from a different
-  perspective. To the one writing the code something may be obvious in their mind, but
-  it may actually require more specificity or comments for another developer to
-  understand. For a code reviewer to note the positives along with critiquing 
-  the project is important. Understanding the current purpose as well as considering
+  *Code reviews allow a different pair of eyes to look at your work from a different
+  *perspective. To the one writing the code something may be obvious in their mind, but*
+  *it may actually require more specificity or comments for another developer to*
+  *understand. For a code reviewer to note the positives along with critiquing*
+  *the project is important. Understanding the current purpose as well as considering*
   *the future purpose is also vital.*
   
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
   
-  *Containers allow code to be run on an independent OS that can be shared
-  *more easily and between different operating systems. It allows an application
-  *to be packaged with necessary libraries. Containers are isolated and so will not
-  *interfere with other applications. It allows scalability with code.
+  *Containers allow code to be run on an independent OS that can be shared*
+  *more easily and between different operating systems. It allows an application*
+  *to be packaged with necessary libraries. Containers are isolated and so will not*
+  *interfere with other applications. It allows scalability with code.*
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
