@@ -263,7 +263,7 @@ career here, you'll have to answer the following:
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
   
-  *Code reviews allow a different pair of eyes to look at your work from a different
+  *Code reviews allow a different pair of eyes to look at your work from a different*
   *perspective. To the one writing the code something may be obvious in their mind, but*
   *it may actually require more specificity or comments for another developer to*
   *understand. For a code reviewer to note the positives along with critiquing*
