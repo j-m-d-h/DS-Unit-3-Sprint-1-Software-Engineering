@@ -20,6 +20,14 @@ class AcmeProductTest(unittest.TestCase):
         self.assertEqual(prod.stealability, 'Very stealable!')
         self.assertEqual(prod.explode, '...BABOOM!')
 
+class AcmeReportTest(unittest.TestCase):
+
+    def test_default_num_products(self):
+
+
+    def test_legal_names(self):
+
+
 
 if __name__ == '__main__':
     unittest.main()
