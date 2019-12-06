@@ -1,7 +1,8 @@
 import random
 
 class Product:
-    """jskaldbdjkbdskjvl"""
+    """Basic template for products with name, price, weight, flammability,
+    stealability, explode."""
 
     def __init__(self, name, price=10, weight=20, flammability=0.5):
         self.name = name
@@ -46,13 +47,12 @@ class Product:
 
 
 class BoxingGlove(Product):
-    """asbkjdsabkjasbdvk"""
+    """Boxing Glove item that is inherited from Product class with added
+    punch and altered explode."""
 
-    def __init__(self, name, price=10, weight=10, flammability=0.5):
-        self.name = name
-        self.price = price
-        self.weight = weight
-        self.flammability = flammability
+    def __init__(self, name, price=10, weight=20, flammability=0.5):
+        super().__init__(name=name, price=price, weight=10,
+                            flammability=flammability)
 
     def explode(self):
         return "...it's a glove."
