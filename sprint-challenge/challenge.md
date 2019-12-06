@@ -263,12 +263,12 @@ career here, you'll have to answer the following:
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
   
-  *Code reviews allow a different pair of eyes to look at your work from a different
-  *perspective. To the one writing the code something may be obvious in their mind, but
-  *it may actually require more specificity or comments for another developer to
-  *understand. For a code reviewer to note the positives along with critiquing 
-  *the project is important. Understanding the current purpose as well as considering
-  *the future purpose is also vital.
+  ######Code reviews allow a different pair of eyes to look at your work from a different
+  ######perspective. To the one writing the code something may be obvious in their mind, but
+  ######it may actually require more specificity or comments for another developer to
+  ######understand. For a code reviewer to note the positives along with critiquing 
+  ######the project is important. Understanding the current purpose as well as considering
+  ######the future purpose is also vital.
   
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
